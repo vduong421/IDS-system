@@ -40,7 +40,6 @@ SMOTE (Synthetic Minority Over-sampling Technique) is used to address class imba
 
 The notebook includes:
 
-- Confusion matrices for each model
 - Comparison bar charts:
   - Between stock and tuned versions of the same model
   - Across all stock models
