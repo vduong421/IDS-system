@@ -46,7 +46,5 @@ The notebook includes:
   - Across all stock models
   - Across all tuned models
 
-## Requirements
 
-Install required libraries using:
 
