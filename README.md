@@ -2,6 +2,9 @@
 
 This repository contains a Notebook (`main.ipynb`) that trains and evaluates machine learning models for detecting network-based attacks. The notebook includes data preprocessing, resampling using SMOTE, model training, evaluation, and visualization.
 
+## Youtube Link:
+https://www.youtube.com/watch?v=gXQjhJ8pZbQ
+
 ## Overview
 
 The notebook performs the following steps:
